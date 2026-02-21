@@ -8,14 +8,14 @@ Working toward international tech market
 ---
 
 # Currently Learning
-- Backend Development (choosing main language)
+- Backend Development with Python (FastAPI / Django)
 - Linux (CLI, system basics)
 - Docker
 - Git & GitHub workflow
 
 ---
 
-#Tech Stack
+# Tech Stack
 **Frontend**
 - HTML
 - CSS
