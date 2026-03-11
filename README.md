@@ -39,7 +39,7 @@ Static HTML project
 
 ---
 
-## 📈 2026 Goals
+##  2026 Goals
 - Build REST API with authentication
 - Use Docker in real project
 - Deploy project to cloud
@@ -47,5 +47,5 @@ Static HTML project
 
 ---
 
-## 📫 Contact
+##  Contact
 📧 Email: microaim20@gmail.com
